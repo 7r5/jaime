@@ -1,0 +1,4 @@
+# Obsoleto: este proyecto usa Poetry para manejar dependencias.
+# Ejecuta desde backend:
+#   poetry install
+# No uses este archivo para instalar el backend.

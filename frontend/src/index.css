@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+main {
+  padding: 20px;
+}
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  box-sizing: border-box;
+}
+button {
+  padding: 10px 16px;
+  margin-top: 12px;
+}
+pre {
+  background: #fff;
+  padding: 16px;
+  border: 1px solid #ddd;
+  overflow: auto;
+}

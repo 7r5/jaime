@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-assistant-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "author": {"name": "Ricardo A"},
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.15.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
